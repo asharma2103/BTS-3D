@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>CodePen - 3D Card Hover Effect</title>
+  <link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<div class="card">
+    <div class="wrapper">
+      <img src="https://i.pinimg.com/564x/73/4a/4b/734a4be6397357e46716e5ccfdc1b5a6.jpg" class="cover-image" />
+    </div>
+    <img src="https://ggayane.github.io/css-experiments/cards/dark_rider-title.png" class="title" />
+    <img src="https://ggayane.github.io/css-experiments/cards/dark_rider-character.webp" class="character" />
+  </div>
+
+  <div class="card">
+    <div class="wrapper">
+      <img src="https://i.pinimg.com/236x/ac/45/88/ac45880b9fe526942e7073110cc1f726.jpg" class="cover-image" />
+    </div>
+    <img src="https://ggayane.github.io/css-experiments/cards/force_mage-title.png" class="title" />
+    <img src="https://ggayane.github.io/css-experiments/cards/force_mage-character.webp" class="character" />
+  </div>
+<!-- partial -->
+  
+</body>
+</html>
